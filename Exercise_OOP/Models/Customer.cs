@@ -1,4 +1,4 @@
-﻿namespace Exercise_OOP.Intefaces
+﻿namespace Exercise_OOP.Models
 {
     public abstract class Customer
     {

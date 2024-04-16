@@ -1,6 +1,4 @@
-﻿using Exercise_OOP.Intefaces;
-
-namespace Exercise_OOP.Models
+﻿namespace Exercise_OOP.Models
 {
     public class Company : Customer
     {
